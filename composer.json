@@ -1,8 +1,7 @@
 {
-  "name": "drupal/anchor_link",
+  "name": "ubc-web-services/10compat_anchor_link",
   "description": "This plugin module adds the better link dialog and anchor related features to CKEditor in Drupal 9.",
   "type": "drupal-module",
-  "homepage": "https://www.drupal.org/project/anchor_link",
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",
   "authors": [
@@ -12,10 +11,6 @@
       "role": "Maintainer"
     }
   ],
-  "support": {
-    "issues": "https://www.drupal.org/project/issues/anchor_link",
-    "source": "http://cgit.drupalcode.org/anchor_link"
-  },
   "repositories": {
     "drupal": {
       "type": "composer",
@@ -23,8 +18,7 @@
     }
   },
   "require": {
-    "drupal/core": "^9 || ^10",
-    "drupal/fakeobjects": "~1.0"
+    "drupal/core": "^9 || ^10"
   },
   "extra": {
     "branch-alias": {
