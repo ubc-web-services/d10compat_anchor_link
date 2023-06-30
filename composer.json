@@ -11,18 +11,7 @@
       "role": "Maintainer"
     }
   ],
-  "repositories": {
-    "drupal": {
-      "type": "composer",
-      "url": "https://packages.drupal.org/8"
-    }
-  },
   "require": {
     "drupal/core": "^9 || ^10"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-3.0.x": "3.0.x-dev"
-    }
   }
 }
