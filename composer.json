@@ -1,5 +1,5 @@
 {
-  "name": "ubc-web-services/10compat_anchor_link",
+  "name": "ubc-web-services/d10compat_anchor_link",
   "description": "This plugin module adds the better link dialog and anchor related features to CKEditor in Drupal 9.",
   "type": "drupal-module",
   "license": "GPL-2.0-or-later",
